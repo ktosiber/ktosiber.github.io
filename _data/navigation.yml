@@ -1,22 +1,16 @@
 # main links links
 main:
   - title: "Dokümanlar"
-    url: /dokumanlar/
+    url: /dokumanlar/   
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Çalışma Atölyeleri"
+    url: /atolye/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projeler"
+    url: /projeler/
         
   - title: "Blog"
-    url: /blog/
-    
-  - title: "CV"
-    url: /cv/
+    url: /blog/    
 
   - title: "Üyeler"
     url: /uyeler/
