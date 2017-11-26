@@ -16,7 +16,7 @@ Over 70 recipes to help you master Kali Linux for effective penetration security
 
 <br>
 
-|   |   |
-| :------------ | ------------: |
-| [Buradan İndir](http://zempirians.com/ebooks/Packt.Kali.Linux.Cookbook.Oct.2013.ISBN.1783289597.pdf)  | [![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)  |
+| [Doküman İndirme Linki](http://zempirians.com/ebooks/Packt.Kali.Linux.Cookbook.Oct.2013.ISBN.1783289597.pdf)  |
+| ------------: | ------------: |
+| [![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)  |
 

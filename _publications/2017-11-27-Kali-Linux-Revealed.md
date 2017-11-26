@@ -16,8 +16,8 @@ Mastering the Penetration Testing Distribution
 
 <br>
 
-|   |   |
-| :------------ | ------------: |
-| [Buradan İndir](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)  | [![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)  |
+| [Doküman İndirme Linki](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)  |
+| ------------: | ------------: |
+| [![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)  |
 
 
