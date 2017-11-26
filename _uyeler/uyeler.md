@@ -1,6 +1,6 @@
 ---
 title: "KTO Karatay Üniversitesi Siber Güvenlik Araştırma ve Geliştirme Topluluğu Üyeleri"
-permalink: /uyeler
+permalink: /uyeler/uyelistesi
 date: 2017-11-27
 ---
 
