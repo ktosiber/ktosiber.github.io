@@ -22,7 +22,7 @@ Yaklaşan Etkinlikler
 
 
 | <i class="fa fa-diamond" aria-hidden="true"></i> | Hacker Gibi Düşünmek  |
-| ------------ | ------------ |
+| ------------: | :------------ |
 | <i class="fa fa-calendar" aria-hidden="true"></i> | Belirlenecek  |
 | <i class="fa fa-map-marker" aria-hidden="true"></i> | KTO Karatay Üniversitesi  |
 
@@ -31,7 +31,7 @@ Yaklaşan Etkinlikler
 
 
 | <i class="fa fa-diamond" aria-hidden="true"></i> | Sosyal Medya ve Bilgi Güvenliği  |
-| ------------ | ------------ |
+| ------------: | :------------ |
 | <i class="fa fa-calendar" aria-hidden="true"></i> | Belirlenecek  |
 | <i class="fa fa-map-marker" aria-hidden="true"></i> | KTO Karatay Üniversitesi  |
 
