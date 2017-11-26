@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Dokümanlar"
-    url: /publications/
+    url: /dokuman/
 
   - title: "Talks"
     url: /talks/    
