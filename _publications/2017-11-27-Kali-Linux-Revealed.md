@@ -16,4 +16,5 @@ Mastering the Penetration Testing Distribution
 
 
 
-<br>[![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)
+<br><div style="text-align: right">[![Fatih Zor](/images/yazarX.png)](http://www.fatihzor.com.tr)</div>
+
