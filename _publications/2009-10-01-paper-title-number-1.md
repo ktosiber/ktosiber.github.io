@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Kali Linux Cookbook"
 collection: publications
-permalink: /dokumanlar/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /dokumanlar/2017-11-27-Kali-Linux-Cookbook
+excerpt: 'Over 70 recipes to help you master Kali Linux for effective penetration security testing'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Kali 101'
+paperurl: 'http://zempirians.com/ebooks/Packt.Kali.Linux.Cookbook.Oct.2013.ISBN.1783289597.pdf'
+citation: 'İngilizce'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Over 70 recipes to help you master Kali Linux for effective penetration security testing
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Buradan İndir](http://zempirians.com/ebooks/Packt.Kali.Linux.Cookbook.Oct.2013.ISBN.1783289597.pdf)
