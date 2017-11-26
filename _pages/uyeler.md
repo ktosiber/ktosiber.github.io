@@ -2,6 +2,10 @@
 title: "KTO Karatay Üniversitesi Siber Güvenlik Araştırma ve Geliştirme Topluluğu Üyeleri"
 permalink: /uyeler/
 date: 2017-11-27
+redirect_from: 
+  - /members/
+  - /uyeler.html
+  - /uye/
 ---
 
 | İsim - Soyisim  | Görevi  | İletişim  |
