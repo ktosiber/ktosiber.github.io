@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 KTO Karatay Üniversitesi **Siber Güvenlik Araştırma ve Geliştirme Topluluğu** 2017 yılının Ekim ayında kuruldu. 
-[academicpages template](https://github.com/academicpages/academicpages.github.io)
 
 Amaçlarımız
 ======
