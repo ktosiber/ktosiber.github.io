@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Hacker Gibi Düşünmek"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Siber Güvenlik Atölye Çalışmaları - 1"
+permalink: /atolye/2017-hacker-gibi-dusunmek
+venue: "KTO Karatay Üniversitesi, Bilgisayar Mühendisliği"
+date: 2017-12-15
+location: "Konya, Turkey"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
