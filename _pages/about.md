@@ -25,6 +25,8 @@ Yaklaşan Etkinlikler
 | ------------ | ------------ |
 | <i class="fa fa-calendar" aria-hidden="true"></i> | Belirlenecek  |
 | <i class="fa fa-map-marker" aria-hidden="true"></i> | KTO Karatay Üniversitesi  |
+
+
 -----------
 
 
