@@ -13,3 +13,7 @@ citation: 'İngilizce'
 Mastering the Penetration Testing Distribution
 
 [Buradan İndir](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
+
+
+
+<br>[![Fatih Zor](/images/yazar.png)](http://www.fatihzor.com.tr)
