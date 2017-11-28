@@ -230,12 +230,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _ctf
+  # _talks
   - scope:
       path: ""
-      type: ctf
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
